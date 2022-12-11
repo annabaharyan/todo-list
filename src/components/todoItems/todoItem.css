@@ -1,0 +1,31 @@
+#todo-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+#todo-item > input {
+  width: 25px;
+  height: 25px;
+  accent-color: rgb(131, 210, 212);
+  margin-left: 10px;
+}
+#todo-item > button {
+  width: 25px;
+  height: 25px;
+  background-color: rgb(131, 210, 212);
+  border: 0.2px solid grey;
+  border-radius: 2px;
+  font-weight: 900;
+  color: rgb(59, 59, 59);
+}
+
+#todo-item > p {
+  width: 80%;
+  padding: 0 8px;
+}
+#todo-item > button {
+  margin-right: 10px;
+}

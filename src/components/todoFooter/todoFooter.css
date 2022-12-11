@@ -1,0 +1,18 @@
+.footer-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-top: 1px solid grey;
+  padding: 30px 10px;
+}
+.footer-container > button {
+  background-color: rgb(131, 210, 212);
+  cursor: pointer;
+  border: 0.2px solid grey;
+  border-radius: 2px;
+  font-weight: 600;
+  padding: 10px;
+  color: rgb(59, 59, 59);
+}
