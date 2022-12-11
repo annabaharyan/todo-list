@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.d24f10dd.css",
+    "main.js": "/todo-list/static/js/main.6fe63de8.js",
+    "static/media/colored-pencils.webp": "/todo-list/static/media/colored-pencils.7b5d1cf258efa9d92aa7.webp",
+    "index.html": "/todo-list/index.html",
+    "main.d24f10dd.css.map": "/todo-list/static/css/main.d24f10dd.css.map",
+    "main.6fe63de8.js.map": "/todo-list/static/js/main.6fe63de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24f10dd.css",
+    "static/js/main.6fe63de8.js"
+  ]
+}
